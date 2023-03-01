@@ -1,0 +1,4 @@
+name: Onlycolor_move
+version: '${project.version}'
+main: whiless.onlycolor_move.Onlycolor_move
+api-version: 1.19
